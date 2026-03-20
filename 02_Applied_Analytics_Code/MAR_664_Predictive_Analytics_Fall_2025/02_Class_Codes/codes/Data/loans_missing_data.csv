@@ -1,0 +1,1001 @@
+age,annual_income,employment_length,home_ownership,loan_amount,interest_rate,purpose,credit_score,default_1yr
+51.0,55597.0,<1 year,Rent,7572.0,7.97,Home improvement,635.0,0
+39.0,-,10+ years,Own,7458.0,14.27,Education,667.0,0
+51.0,69558.0,3–5 years,Own,16220.0,14.88,Home improvement,663.0,0
+33.0,87347.0,1–3 years,Own,19919.0,12.59,Home improvement,656.0,0
+24.0,68641.0,3–5 years,Mortgage,18188.0,13.74,-,730.0,0
+-,64532.0,10+ years,Mortgage,18585.0,10.86,Home improvement,673.0,0
+33.0,58708.0,5–10 years,Mortgage,16165.0,16.3,Car,695.0,0
+53.0,29032.0,3–5 years,Rent,12001.0,11.71,Debt consolidation,645.0,0
+43.0,41279.0,10+ years,Own,9499.0,9.93,-,652.0,0
+58.0,32757.0,1–3 years,Own,22306.0,15.72,Car,728.0,0
+31.0,23946.0,5–10 years,Own,8673.0,8.91,Car,725.0,0
+35.0,58489.0,-,Own,12920.0,11.75,Debt consolidation,669.0,0
+54.0,56273.0,3–5 years,Rent,29980.0,13.48,Car,749.0,0
+61.0,69218.0,3–5 years,Own,14476.0,13.32,Vacation,704.0,0
+58.0,26050.0,5–10 years,Rent,9095.0,14.77,Debt consolidation,673.0,0
+44.0,54985.0,-,Own,18622.0,9.11,Other,638.0,0
+58.0,73692.0,-,Mortgage,15021.0,11.75,Debt consolidation,712.0,0
+68.0,82478.0,<1 year,Rent,11075.0,16.61,Home improvement,736.0,0
+41.0,27921.0,5–10 years,Own,11889.0,10.71,Education,729.0,0
+37.0,36644.0,<1 year,Rent,13384.0,13.74,Debt consolidation,717.0,0
+21.0,55902.0,-,Own,22170.0,16.99,Home improvement,658.0,0
+74.0,47890.0,10+ years,Own,17121.0,13.32,Home improvement,749.0,0
+24.0,36941.0,5–10 years,Own,19516.0,13.61,Vacation,649.0,0
+57.0,48322.0,10+ years,Own,11139.0,9.15,Education,728.0,0
+-,40735.0,1–3 years,Rent,11232.0,13.17,Car,618.0,0
+38.0,67941.0,10+ years,Mortgage,12791.0,15.98,Debt consolidation,711.0,0
+37.0,41426.0,1–3 years,Own,22875.0,11.61,Home improvement,-,0
+32.0,96408.0,5–10 years,Rent,18464.0,16.05,Car,682.0,0
+66.0,42481.0,10+ years,Rent,15108.0,14.86,Home improvement,695.0,0
+-,70293.0,10+ years,Rent,9664.0,9.75,Debt consolidation,717.0,0
+49.0,50471.0,3–5 years,Mortgage,9300.0,9.06,Debt consolidation,653.0,0
+54.0,34024.0,1–3 years,Other,19085.0,13.0,Car,697.0,0
+30.0,88617.0,10+ years,Rent,24894.0,10.52,Car,757.0,0
+48.0,67982.0,3–5 years,Rent,2881.0,12.24,Debt consolidation,623.0,1
+34.0,75290.0,3–5 years,Rent,17103.0,6.53,Education,707.0,0
+72.0,48900.0,-,Mortgage,17712.0,11.83,Education,678.0,0
+47.0,86248.0,3–5 years,Own,14749.0,6.89,Debt consolidation,704.0,0
+62.0,38404.0,1–3 years,Rent,11614.0,13.52,Car,708.0,0
+63.0,55845.0,3–5 years,Rent,16460.0,13.88,Home improvement,-,0
+57.0,40279.0,10+ years,Mortgage,20784.0,7.8,Debt consolidation,718.0,0
+63.0,19691.0,3–5 years,Mortgage,24656.0,17.13,-,765.0,0
+63.0,42438.0,5–10 years,Own,7728.0,12.57,Home improvement,695.0,0
+36.0,46355.0,5–10 years,Rent,15912.0,13.72,Vacation,-,0
+74.0,38476.0,3–5 years,Rent,12002.0,10.11,Vacation,703.0,0
+58.0,-,5–10 years,Mortgage,3381.0,17.11,Education,732.0,0
+63.0,62368.0,10+ years,Own,10905.0,12.8,Education,717.0,0
+49.0,-,<1 year,Rent,24137.0,11.49,Debt consolidation,692.0,1
+52.0,57392.0,3–5 years,Mortgage,21029.0,11.49,Car,753.0,0
+73.0,95368.0,-,Own,15307.0,15.02,Debt consolidation,783.0,0
+52.0,42065.0,<1 year,Mortgage,14560.0,10.0,Other,742.0,0
+30.0,72226.0,10+ years,-,5689.0,10.96,Vacation,749.0,0
+26.0,45505.0,5–10 years,Rent,24512.0,10.33,Education,660.0,0
+42.0,15000.0,-,Mortgage,19095.0,10.93,Home improvement,698.0,0
+73.0,79046.0,<1 year,Own,13544.0,12.97,Debt consolidation,672.0,0
+49.0,60433.0,<1 year,Rent,16917.0,12.11,Debt consolidation,646.0,0
+38.0,94420.0,3–5 years,Rent,20836.0,15.43,Vacation,660.0,0
+58.0,69565.0,10+ years,Own,6588.0,9.67,Home improvement,695.0,0
+73.0,52118.0,10+ years,Rent,14211.0,14.03,Debt consolidation,761.0,0
+28.0,42099.0,1–3 years,Other,11307.0,8.87,Education,713.0,0
+59.0,62455.0,10+ years,Rent,19661.0,11.47,Debt consolidation,711.0,0
+61.0,57467.0,3–5 years,Rent,15838.0,13.17,Vacation,603.0,0
+66.0,37849.0,3–5 years,Mortgage,23836.0,9.06,Debt consolidation,763.0,0
+45.0,56916.0,-,Own,15872.0,9.88,Debt consolidation,729.0,0
+36.0,32632.0,3–5 years,Own,22114.0,11.81,Debt consolidation,695.0,0
+71.0,60843.0,5–10 years,Own,22630.0,12.72,Car,677.0,0
+29.0,61777.0,1–3 years,Mortgage,18077.0,5.65,Vacation,672.0,0
+36.0,30856.0,3–5 years,Rent,13073.0,17.07,Other,617.0,0
+46.0,23062.0,10+ years,Own,9598.0,10.96,Other,-,0
+60.0,44153.0,1–3 years,Rent,10909.0,13.76,Education,713.0,0
+42.0,53551.0,1–3 years,Own,18892.0,14.29,Other,746.0,0
+39.0,81848.0,1–3 years,Own,11410.0,18.06,Home improvement,680.0,0
+30.0,58329.0,3–5 years,-,22296.0,15.38,Other,817.0,0
+53.0,75618.0,3–5 years,Own,13426.0,12.79,Car,701.0,0
+55.0,47397.0,3–5 years,Rent,17438.0,10.81,Debt consolidation,741.0,0
+57.0,59395.0,5–10 years,Rent,21492.0,13.3,Home improvement,597.0,1
+53.0,56157.0,1–3 years,Own,9315.0,12.07,-,664.0,0
+55.0,67571.0,-,Own,9434.0,13.4,Vacation,748.0,0
+37.0,62101.0,3–5 years,Mortgage,21765.0,13.13,Debt consolidation,679.0,0
+70.0,59714.0,5–10 years,-,21866.0,11.96,Education,641.0,0
+36.0,60649.0,3–5 years,Mortgage,12224.0,16.62,Debt consolidation,-,0
+43.0,50395.0,1–3 years,Rent,15166.0,14.22,Car,594.0,0
+43.0,56637.0,10+ years,Rent,5646.0,8.77,Education,677.0,0
+25.0,46155.0,10+ years,Mortgage,4987.0,8.78,-,658.0,0
+49.0,57522.0,10+ years,Other,12904.0,7.43,Debt consolidation,719.0,0
+49.0,50796.0,5–10 years,Mortgage,16495.0,8.3,Debt consolidation,728.0,0
+44.0,60110.0,-,Mortgage,11416.0,10.19,Vacation,669.0,0
+72.0,86234.0,-,Own,25170.0,12.78,Other,658.0,0
+59.0,29864.0,5–10 years,Rent,16816.0,9.29,Vacation,690.0,0
+32.0,64171.0,5–10 years,Rent,12145.0,12.22,Car,707.0,0
+24.0,22763.0,<1 year,Rent,12782.0,13.27,-,792.0,0
+51.0,41199.0,3–5 years,Rent,22184.0,11.27,Debt consolidation,727.0,0
+25.0,58700.0,1–3 years,Own,24037.0,15.8,Home improvement,727.0,0
+48.0,73428.0,3–5 years,Own,16104.0,12.3,Car,-,0
+67.0,-,3–5 years,-,23686.0,11.11,Debt consolidation,674.0,0
+21.0,86444.0,3–5 years,Other,10667.0,8.79,Debt consolidation,719.0,0
+57.0,50000000.0,3–5 years,Rent,22850.0,11.9,Vacation,585.0,0
+33.0,33435.0,3–5 years,Mortgage,8048.0,6.72,Debt consolidation,642.0,0
+42.0,82486.0,3–5 years,Mortgage,15141.0,14.18,Home improvement,595.0,0
+62.0,40822.0,1–3 years,-,26547.0,10.06,Debt consolidation,700.0,0
+71.0,92761.0,3–5 years,Mortgage,17800.0,15.62,Home improvement,646.0,0
+21.0,-,-,Rent,10201.0,17.1,Car,754.0,0
+21.0,53173.0,10+ years,Own,11846.0,16.11,Other,738.0,0
+34.0,51341.0,<1 year,Mortgage,13371.0,14.67,Car,745.0,0
+22.0,19128.0,-,Own,14273.0,12.14,Debt consolidation,688.0,0
+60.0,76052.0,1–3 years,Rent,13240.0,10.36,Car,656.0,0
+46.0,58781.0,1–3 years,Rent,17564.0,11.63,Home improvement,-,0
+33.0,85478.0,5–10 years,Rent,20264.0,10.97,Debt consolidation,618.0,0
+60.0,58048.0,3–5 years,Rent,19697.0,9.09,Vacation,746.0,0
+31.0,35717.0,<1 year,Own,11974.0,10.08,-,757.0,0
+49.0,25535.0,5–10 years,Own,8523.0,15.12,Debt consolidation,748.0,0
+35.0,63895.0,3–5 years,-,14068.0,15.18,Home improvement,680.0,0
+56.0,110672.0,1–3 years,Rent,12108.0,17.06,Home improvement,607.0,0
+42.0,39687.0,3–5 years,Own,15059.0,11.94,Home improvement,698.0,0
+71.0,79842.0,10+ years,Own,22679.0,6.18,Debt consolidation,729.0,0
+69.0,73082.0,10+ years,Own,15393.0,12.8,Home improvement,651.0,0
+32.0,80870.0,1–3 years,Rent,15700.0,13.07,Home improvement,-,0
+51.0,63666.0,3–5 years,Own,20407.0,8.0,Debt consolidation,728.0,0
+61.0,35745.0,3–5 years,Own,6616.0,14.46,Car,704.0,0
+56.0,77146.0,1–3 years,Rent,15617.0,11.93,Home improvement,695.0,0
+24.0,62123.0,5–10 years,Rent,10523.0,10.33,Debt consolidation,617.0,0
+34.0,86510.0,3–5 years,Own,11626.0,13.67,-,798.0,0
+45.0,32046.0,<1 year,Rent,15986.0,12.89,Debt consolidation,749.0,0
+28.0,86430.0,3–5 years,Own,11971.0,15.15,Car,723.0,0
+45.0,26514.0,1–3 years,Own,20291.0,11.18,Vacation,-,0
+27.0,61461.0,10+ years,Mortgage,13817.0,16.54,-,711.0,0
+74.0,53542.0,10+ years,Mortgage,4043.0,13.72,Debt consolidation,697.0,0
+32.0,75577.0,5–10 years,Own,9052.0,12.79,Car,731.0,0
+53.0,82153.0,5–10 years,Rent,13149.0,11.64,Education,714.0,0
+36.0,46541.0,-,Own,6187.0,13.01,Home improvement,687.0,0
+42.0,39373.0,3–5 years,Own,17142.0,12.17,Debt consolidation,669.0,0
+50.0,78663.0,5–10 years,Mortgage,3978.0,16.39,Car,813.0,0
+35.0,42871.0,5–10 years,Rent,13142.0,11.65,Home improvement,731.0,0
+29.0,111314.0,5–10 years,Rent,18784.0,8.2,Car,668.0,0
+58.0,78276.0,5–10 years,Rent,13951.0,11.85,Home improvement,637.0,0
+61.0,51075.0,1–3 years,Rent,16787.0,13.21,Debt consolidation,750.0,0
+32.0,101276.0,3–5 years,Rent,7670.0,19.65,Vacation,646.0,0
+30.0,50626.0,3–5 years,Rent,17213.0,16.54,Debt consolidation,695.0,0
+64.0,51503.0,10+ years,Mortgage,19341.0,10.45,Vacation,803.0,0
+32.0,-,<1 year,-,14558.0,9.84,Home improvement,774.0,0
+49.0,88301.0,1–3 years,Rent,15919.0,17.7,Home improvement,631.0,0
+34.0,48981.0,5–10 years,Mortgage,12504.0,13.76,Education,677.0,0
+39.0,100114.0,5–10 years,-,17248.0,15.95,Vacation,759.0,0
+28.0,-,<1 year,Own,16403.0,14.13,Vacation,772.0,0
+50.0,52134.0,3–5 years,Own,6755.0,10.42,Education,-,0
+64.0,44208.0,1–3 years,Rent,12670.0,14.86,Vacation,744.0,0
+62.0,77075.0,-,Mortgage,14203.0,7.73,Education,756.0,0
+38.0,46681.0,<1 year,Mortgage,24992.0,13.75,Car,715.0,0
+72.0,82786.0,3–5 years,Mortgage,29563.0,13.43,Vacation,687.0,0
+64.0,90639.0,3–5 years,Mortgage,23061.0,11.76,Car,676.0,0
+-,91631.0,3–5 years,Mortgage,11545.0,8.27,Education,686.0,0
+57.0,78971.0,5–10 years,-,13363.0,15.03,Debt consolidation,626.0,0
+27.0,98365.0,<1 year,Rent,17491.0,10.71,Debt consolidation,757.0,0
+29.0,31902.0,3–5 years,Own,13467.0,16.47,Home improvement,-,0
+72.0,73886.0,5–10 years,Own,10465.0,13.59,Car,615.0,0
+45.0,86890.0,3–5 years,Rent,19107.0,12.91,Debt consolidation,655.0,0
+74.0,38624.0,3–5 years,Own,18461.0,10.21,Debt consolidation,761.0,0
+66.0,40761.0,1–3 years,Rent,10261.0,10.19,Education,683.0,0
+31.0,68999.0,5–10 years,Own,16709.0,6.94,Education,800.0,0
+63.0,37283.0,<1 year,Own,18547.0,6.33,Car,711.0,0
+72.0,36817.0,10+ years,Other,14362.0,14.39,Debt consolidation,711.0,0
+43.0,49526.0,<1 year,-,9484.0,13.96,Home improvement,656.0,0
+54.0,48705.0,1–3 years,Own,14108.0,16.38,Car,752.0,0
+34.0,61512.0,10+ years,Rent,16275.0,10.02,Debt consolidation,629.0,0
+60.0,66922.0,1–3 years,Own,12911.0,12.49,Debt consolidation,705.0,0
+57.0,77720.0,10+ years,Rent,10948.0,13.08,Car,716.0,0
+27.0,-,3–5 years,Own,8754.0,15.33,-,694.0,0
+60.0,54779.0,3–5 years,Own,16305.0,10.24,Home improvement,722.0,0
+58.0,15000.0,-,Rent,12756.0,11.98,Home improvement,736.0,0
+45.0,44857.0,5–10 years,Rent,11879.0,7.66,-,-,0
+48.0,44480.0,1–3 years,Mortgage,15038.0,10.51,Home improvement,674.0,0
+42.0,96042.0,<1 year,Other,18070.0,13.79,Other,686.0,0
+28.0,50882.0,5–10 years,Rent,13726.0,12.71,Vacation,650.0,0
+49.0,48198.0,5–10 years,Own,12929.0,8.75,Home improvement,641.0,0
+29.0,61680.0,5–10 years,Mortgage,8275.0,13.14,Debt consolidation,658.0,0
+36.0,119291.0,1–3 years,Rent,14678.0,9.73,Home improvement,667.0,0
+34.0,82930.0,1–3 years,Rent,11427.0,16.42,Debt consolidation,-,0
+23.0,58789.0,5–10 years,Mortgage,14531.0,10.81,Home improvement,752.0,0
+46.0,60237.0,<1 year,-,2072.0,10.25,Home improvement,766.0,0
+43.0,-,3–5 years,Mortgage,16824.0,11.98,Debt consolidation,790.0,0
+25.0,43639.0,3–5 years,Own,11263.0,18.76,Debt consolidation,719.0,0
+34.0,53670.0,5–10 years,Rent,15942.0,14.54,Debt consolidation,762.0,0
+56.0,70613.0,3–5 years,-,27367.0,10.83,Car,719.0,0
+67.0,78882.0,1–3 years,Rent,15882.0,10.9,Debt consolidation,677.0,0
+33.0,62444.0,3–5 years,Mortgage,13409.0,11.34,Debt consolidation,669.0,0
+24.0,54826.0,3–5 years,Rent,12457.0,10.41,Debt consolidation,-,0
+37.0,81133.0,5–10 years,Rent,11511.0,13.48,Home improvement,738.0,0
+73.0,96471.0,5–10 years,Own,3818.0,18.29,Debt consolidation,720.0,0
+25.0,-,3–5 years,Mortgage,15568.0,17.51,Car,776.0,0
+65.0,67644.0,1–3 years,Rent,13090.0,13.23,Home improvement,681.0,0
+59.0,65182.0,3–5 years,Rent,14534.0,12.0,Home improvement,707.0,0
+57.0,78976.0,1–3 years,Mortgage,17555.0,15.67,Debt consolidation,810.0,0
+62.0,75703.0,<1 year,Mortgage,29861.0,13.92,Education,744.0,0
+57.0,65416.0,5–10 years,Own,14950.0,16.35,Car,627.0,0
+64.0,62688.0,10+ years,Rent,22318.0,10.96,Debt consolidation,-,1
+66.0,39157.0,5–10 years,Rent,12217.0,9.09,Car,752.0,0
+-,15000.0,3–5 years,Mortgage,23818.0,9.01,Home improvement,692.0,0
+30.0,51421.0,5–10 years,Own,8054.0,14.02,Debt consolidation,665.0,0
+45.0,50000000.0,3–5 years,Rent,22130.0,10.58,Education,695.0,0
+61.0,96777.0,5–10 years,Rent,20650.0,10.45,Home improvement,745.0,0
+73.0,-,10+ years,Rent,15143.0,16.57,Education,679.0,0
+34.0,50078.0,3–5 years,Rent,3907.0,10.21,Home improvement,707.0,0
+50.0,94828.0,10+ years,Rent,19466.0,14.92,Debt consolidation,732.0,0
+44.0,52722.0,3–5 years,Other,20443.0,10.06,Vacation,-,0
+42.0,97924.0,10+ years,-,21236.0,11.93,Debt consolidation,710.0,0
+56.0,64296.0,5–10 years,Own,16753.0,10.43,Home improvement,713.0,0
+68.0,59454.0,<1 year,Own,12050.0,9.77,Car,700.0,0
+58.0,50370.0,5–10 years,Rent,13213.0,12.83,-,694.0,0
+41.0,49912.0,3–5 years,Rent,17813.0,12.16,Debt consolidation,660.0,0
+50.0,78555.0,5–10 years,Own,13571.0,9.48,Car,-,0
+45.0,70235.0,3–5 years,Rent,13270.0,12.87,Car,652.0,0
+29.0,37774.0,10+ years,Mortgage,11492.0,8.63,Debt consolidation,643.0,0
+34.0,34011.0,5–10 years,Rent,16732.0,12.27,Debt consolidation,731.0,0
+61.0,-,3–5 years,Own,18148.0,5.61,Car,777.0,0
+55.0,32089.0,3–5 years,Own,9418.0,8.96,Debt consolidation,649.0,0
+67.0,-,10+ years,Rent,15755.0,8.82,Home improvement,709.0,0
+47.0,65756.0,1–3 years,Own,11486.0,15.24,Vacation,705.0,0
+55.0,82082.0,1–3 years,Rent,17122.0,8.5,Home improvement,663.0,0
+69.0,64750.0,10+ years,Mortgage,14066.0,14.71,Home improvement,753.0,0
+35.0,53169.0,3–5 years,-,10134.0,13.86,Debt consolidation,688.0,0
+46.0,45270.0,5–10 years,Mortgage,9498.0,13.36,Home improvement,714.0,0
+45.0,103414.0,5–10 years,Other,11200.0,6.9,Car,663.0,0
+56.0,32238.0,1–3 years,-,14408.0,5.9,Debt consolidation,-,0
+48.0,50690.0,3–5 years,Rent,14298.0,16.0,Debt consolidation,643.0,0
+54.0,52219.0,3–5 years,Mortgage,13483.0,16.62,Debt consolidation,705.0,0
+31.0,45686.0,3–5 years,Rent,17755.0,6.29,-,752.0,0
+-,73353.0,-,Mortgage,15489.0,16.03,Debt consolidation,723.0,0
+64.0,34731.0,-,Other,22075.0,12.37,Car,741.0,0
+44.0,70521.0,<1 year,Mortgage,18842.0,12.14,Home improvement,665.0,0
+67.0,73327.0,5–10 years,Mortgage,13780.0,15.45,Other,674.0,0
+68.0,-,1–3 years,Own,21860.0,19.58,Debt consolidation,677.0,0
+33.0,57651.0,3–5 years,Mortgage,14407.0,16.55,Debt consolidation,650.0,0
+62.0,36413.0,3–5 years,Rent,18069.0,13.01,Debt consolidation,647.0,0
+62.0,50000000.0,10+ years,Rent,11761.0,18.86,Home improvement,657.0,0
+41.0,15000.0,3–5 years,Rent,13525.0,13.74,Debt consolidation,614.0,0
+22.0,88933.0,<1 year,Mortgage,14639.0,15.61,Debt consolidation,808.0,0
+-,-,10+ years,Rent,16608.0,8.86,Debt consolidation,613.0,0
+67.0,84956.0,3–5 years,Rent,11755.0,17.92,Education,695.0,0
+52.0,67955.0,-,Own,18811.0,15.34,-,688.0,0
+54.0,75998.0,5–10 years,Rent,17936.0,9.9,Debt consolidation,655.0,0
+67.0,62810.0,-,Mortgage,10552.0,10.54,Debt consolidation,693.0,0
+43.0,79634.0,1–3 years,Mortgage,8623.0,10.07,Home improvement,734.0,0
+65.0,44569.0,1–3 years,Mortgage,14160.0,7.7,Home improvement,731.0,0
+57.0,119812.0,3–5 years,Rent,18535.0,12.56,Debt consolidation,589.0,0
+47.0,19930.0,3–5 years,Rent,4419.0,16.26,Education,642.0,0
+31.0,86534.0,1–3 years,Rent,17911.0,16.68,Car,668.0,0
+69.0,70900.0,3–5 years,Mortgage,10862.0,16.68,Debt consolidation,682.0,0
+60.0,47531.0,1–3 years,Rent,15057.0,8.41,Home improvement,587.0,1
+40.0,92556.0,1–3 years,Rent,15721.0,9.46,Debt consolidation,715.0,0
+60.0,-,-,Own,16593.0,10.44,Vacation,719.0,0
+37.0,99857.0,1–3 years,Rent,11850.0,11.23,-,663.0,0
+45.0,40601.0,1–3 years,Own,7508.0,17.19,Debt consolidation,785.0,0
+71.0,73315.0,5–10 years,Own,17684.0,8.07,Debt consolidation,796.0,0
+41.0,68568.0,<1 year,Mortgage,23461.0,10.28,Home improvement,778.0,1
+25.0,58967.0,5–10 years,Own,15130.0,20.04,Car,671.0,0
+28.0,71950.0,10+ years,Own,10118.0,12.27,Other,720.0,0
+67.0,37552.0,5–10 years,Mortgage,19636.0,10.8,Home improvement,689.0,0
+32.0,-,3–5 years,Own,8848.0,17.33,Debt consolidation,668.0,0
+33.0,51828.0,<1 year,Mortgage,21179.0,18.16,Debt consolidation,725.0,0
+69.0,98495.0,3–5 years,Mortgage,10208.0,13.19,Education,671.0,0
+73.0,32673.0,3–5 years,Own,11054.0,9.19,Vacation,763.0,0
+74.0,87643.0,-,Rent,23604.0,12.97,Education,718.0,0
+69.0,54820.0,3–5 years,-,15796.0,16.73,Home improvement,760.0,0
+21.0,90436.0,5–10 years,Mortgage,8067.0,8.48,-,760.0,0
+24.0,70669.0,3–5 years,-,13866.0,13.76,Debt consolidation,739.0,0
+65.0,96121.0,1–3 years,Rent,15658.0,12.49,Car,695.0,0
+31.0,66690.0,1–3 years,Own,5745.0,10.31,Debt consolidation,679.0,0
+62.0,74496.0,<1 year,Rent,15145.0,8.22,Other,760.0,0
+53.0,-,<1 year,Own,18520.0,12.92,Debt consolidation,765.0,0
+63.0,61176.0,1–3 years,Rent,17821.0,9.65,Car,-,0
+60.0,62423.0,-,Rent,18322.0,14.09,Debt consolidation,634.0,0
+71.0,40291.0,3–5 years,Rent,21477.0,8.33,Debt consolidation,678.0,0
+24.0,27101.0,5–10 years,Rent,10464.0,13.77,-,739.0,0
+62.0,37406.0,5–10 years,Own,23454.0,15.73,Vacation,716.0,1
+57.0,38927.0,<1 year,-,6317.0,14.17,Debt consolidation,720.0,0
+66.0,58612.0,-,Mortgage,14684.0,13.41,Debt consolidation,660.0,0
+36.0,39275.0,1–3 years,Mortgage,9896.0,14.06,Debt consolidation,754.0,0
+36.0,-,3–5 years,Other,11560.0,15.29,Vacation,717.0,0
+72.0,-,<1 year,Mortgage,15544.0,6.26,Education,-,0
+64.0,63033.0,1–3 years,Own,13614.0,11.3,Debt consolidation,721.0,0
+41.0,69402.0,5–10 years,Rent,22130.0,14.86,Debt consolidation,706.0,0
+43.0,48925.0,3–5 years,Rent,6007.0,14.45,Debt consolidation,686.0,0
+53.0,61199.0,3–5 years,Rent,14121.0,14.06,Debt consolidation,-,0
+73.0,50000000.0,5–10 years,Own,14598.0,9.08,Home improvement,631.0,0
+26.0,51434.0,5–10 years,Rent,6276.0,15.68,Other,716.0,0
+66.0,54194.0,5–10 years,Own,18035.0,13.61,Home improvement,648.0,0
+55.0,25257.0,1–3 years,Other,12297.0,14.39,Car,739.0,0
+34.0,70660.0,1–3 years,Rent,19416.0,10.83,Home improvement,703.0,0
+53.0,68384.0,10+ years,-,19729.0,9.93,Car,685.0,0
+25.0,99757.0,3–5 years,Rent,14262.0,11.38,Debt consolidation,757.0,0
+71.0,37982.0,3–5 years,Mortgage,17236.0,11.46,Debt consolidation,767.0,0
+63.0,56402.0,-,Own,18255.0,12.35,Other,704.0,0
+43.0,87448.0,1–3 years,Rent,10636.0,16.47,Car,714.0,0
+27.0,40123.0,5–10 years,Mortgage,11463.0,8.7,Other,665.0,0
+28.0,35603.0,1–3 years,Rent,18337.0,10.25,Other,-,0
+40.0,65474.0,5–10 years,Rent,4846.0,16.0,Home improvement,752.0,0
+60.0,70976.0,3–5 years,Mortgage,11424.0,11.91,Debt consolidation,746.0,0
+52.0,46494.0,3–5 years,Other,20826.0,11.42,Car,718.0,0
+34.0,56668.0,1–3 years,Mortgage,13621.0,12.39,Other,612.0,0
+22.0,-,10+ years,-,16953.0,12.81,Home improvement,608.0,0
+54.0,80483.0,10+ years,Mortgage,14612.0,9.88,Education,730.0,0
+56.0,69945.0,5–10 years,Own,19092.0,8.37,Debt consolidation,753.0,0
+23.0,75657.0,10+ years,Own,18686.0,11.47,Home improvement,-,1
+58.0,55740.0,-,Other,16422.0,9.41,Vacation,685.0,0
+60.0,70486.0,10+ years,Other,18607.0,13.5,Debt consolidation,743.0,0
+45.0,50000000.0,1–3 years,Own,12040.0,8.82,Vacation,681.0,0
+74.0,36540.0,1–3 years,Rent,7522.0,17.72,Home improvement,724.0,0
+25.0,66013.0,10+ years,-,14515.0,12.26,Debt consolidation,703.0,0
+31.0,75932.0,-,Mortgage,21958.0,11.66,Other,683.0,0
+29.0,36484.0,10+ years,Other,11438.0,9.12,Debt consolidation,701.0,0
+51.0,39258.0,1–3 years,Rent,25544.0,9.76,Debt consolidation,593.0,0
+57.0,36058.0,1–3 years,Own,8511.0,12.12,-,710.0,0
+28.0,47412.0,3–5 years,Other,21376.0,10.02,Debt consolidation,755.0,0
+31.0,36723.0,3–5 years,-,16519.0,10.17,Other,700.0,0
+63.0,45460.0,5–10 years,-,23640.0,11.49,Education,732.0,0
+33.0,49163.0,3–5 years,Own,19402.0,11.67,Debt consolidation,717.0,0
+63.0,46943.0,5–10 years,Mortgage,13628.0,13.76,Vacation,613.0,0
+69.0,79875.0,-,Own,16972.0,11.62,Education,717.0,0
+56.0,-,<1 year,Other,19183.0,10.32,Car,746.0,0
+38.0,-,1–3 years,-,24693.0,11.75,Vacation,734.0,0
+33.0,59016.0,10+ years,Rent,12701.0,14.31,Home improvement,-,0
+31.0,67088.0,3–5 years,Rent,21722.0,8.15,Car,757.0,0
+60.0,81192.0,5–10 years,Rent,10549.0,14.39,Other,712.0,0
+41.0,43263.0,3–5 years,Own,21002.0,9.54,Home improvement,762.0,0
+73.0,61354.0,10+ years,Rent,12283.0,10.9,Debt consolidation,649.0,0
+32.0,75513.0,3–5 years,Rent,18443.0,9.52,Debt consolidation,703.0,0
+63.0,50990.0,<1 year,Rent,6857.0,13.47,Home improvement,737.0,0
+47.0,50240.0,<1 year,Rent,8149.0,10.37,Debt consolidation,734.0,0
+59.0,26757.0,5–10 years,Own,13764.0,13.86,Debt consolidation,707.0,0
+31.0,74276.0,1–3 years,Mortgage,12792.0,10.62,Vacation,733.0,0
+39.0,49535.0,5–10 years,Own,5653.0,7.77,Debt consolidation,699.0,0
+32.0,60472.0,5–10 years,Own,8896.0,10.44,Debt consolidation,672.0,0
+59.0,73264.0,3–5 years,Mortgage,17020.0,9.55,Home improvement,611.0,1
+59.0,65364.0,5–10 years,Mortgage,12844.0,15.1,Home improvement,736.0,0
+38.0,82124.0,3–5 years,Rent,11271.0,15.69,Debt consolidation,664.0,0
+55.0,60748.0,3–5 years,Rent,10709.0,6.74,Home improvement,685.0,0
+72.0,17827.0,<1 year,Rent,15834.0,12.89,Debt consolidation,712.0,0
+59.0,60938.0,1–3 years,Rent,8654.0,11.22,Home improvement,680.0,0
+53.0,31656.0,5–10 years,Rent,11317.0,15.57,Debt consolidation,692.0,0
+46.0,68032.0,5–10 years,Rent,15416.0,7.4,Debt consolidation,678.0,0
+27.0,-,3–5 years,Other,15375.0,14.06,Debt consolidation,744.0,0
+40.0,34005.0,10+ years,Mortgage,10877.0,9.54,Other,701.0,0
+65.0,101486.0,1–3 years,Mortgage,12048.0,12.86,Home improvement,647.0,0
+51.0,43559.0,10+ years,Rent,17092.0,6.47,Car,629.0,0
+35.0,92610.0,<1 year,Mortgage,17100.0,15.96,Debt consolidation,759.0,0
+50.0,55369.0,1–3 years,Rent,17464.0,8.89,Home improvement,669.0,0
+69.0,77731.0,1–3 years,Own,4275.0,13.34,Debt consolidation,684.0,0
+36.0,61771.0,3–5 years,Rent,22425.0,12.18,Home improvement,725.0,0
+58.0,81605.0,10+ years,-,22485.0,8.03,Home improvement,-,0
+34.0,98017.0,5–10 years,Own,17602.0,8.31,Home improvement,582.0,0
+30.0,53036.0,3–5 years,Rent,16792.0,8.92,Home improvement,727.0,0
+67.0,31460.0,10+ years,-,11749.0,12.76,Debt consolidation,718.0,0
+29.0,68077.0,-,Rent,15209.0,5.96,Debt consolidation,832.0,0
+70.0,43197.0,10+ years,Own,17011.0,10.8,Home improvement,776.0,0
+-,48428.0,-,Mortgage,15864.0,11.4,Debt consolidation,693.0,0
+62.0,53157.0,1–3 years,Rent,19086.0,13.97,Debt consolidation,699.0,0
+44.0,40991.0,-,Mortgage,15994.0,11.9,Home improvement,700.0,0
+37.0,56312.0,10+ years,-,10294.0,12.05,Debt consolidation,803.0,0
+27.0,-,10+ years,Own,19409.0,10.34,Debt consolidation,732.0,0
+40.0,70459.0,5–10 years,Rent,19139.0,13.12,Other,659.0,0
+39.0,81321.0,1–3 years,Rent,8708.0,8.08,Vacation,706.0,0
+48.0,66952.0,5–10 years,Rent,9090.0,10.07,Debt consolidation,769.0,0
+47.0,61588.0,3–5 years,Rent,16233.0,8.0,Home improvement,723.0,0
+-,58618.0,-,Rent,10848.0,13.06,Education,729.0,0
+22.0,85735.0,1–3 years,Other,11752.0,12.9,Debt consolidation,744.0,0
+23.0,-,<1 year,Mortgage,14337.0,16.15,Debt consolidation,707.0,1
+29.0,37173.0,5–10 years,Rent,5381.0,14.53,Debt consolidation,764.0,0
+69.0,81788.0,1–3 years,Rent,18851.0,9.87,Debt consolidation,739.0,0
+-,36292.0,3–5 years,Rent,12313.0,11.05,Debt consolidation,728.0,0
+24.0,78443.0,1–3 years,Rent,14628.0,11.62,Home improvement,700.0,0
+34.0,56486.0,5–10 years,Mortgage,16040.0,14.61,Debt consolidation,717.0,0
+29.0,36092.0,10+ years,Rent,19719.0,11.51,Vacation,762.0,0
+69.0,27721.0,5–10 years,Rent,10193.0,15.05,Vacation,-,0
+62.0,44823.0,1–3 years,Own,15705.0,15.17,Debt consolidation,-,0
+41.0,30245.0,1–3 years,Mortgage,20747.0,12.6,Debt consolidation,-,0
+28.0,55989.0,-,Own,14723.0,6.49,Vacation,740.0,0
+68.0,88958.0,10+ years,Mortgage,22842.0,14.27,Education,777.0,1
+50.0,92709.0,5–10 years,Rent,13025.0,11.32,Education,600.0,0
+34.0,31221.0,5–10 years,Rent,14364.0,16.69,Home improvement,695.0,0
+-,67660.0,10+ years,Rent,10471.0,17.71,-,688.0,0
+68.0,79640.0,1–3 years,Own,11396.0,19.85,Vacation,615.0,0
+34.0,27876.0,10+ years,Own,18905.0,12.55,Vacation,743.0,0
+45.0,81839.0,1–3 years,Rent,21360.0,11.72,Car,650.0,1
+73.0,84349.0,<1 year,Mortgage,11797.0,12.62,Education,749.0,0
+58.0,64199.0,10+ years,Mortgage,16236.0,13.82,Home improvement,700.0,0
+30.0,46851.0,<1 year,Own,17966.0,9.49,Home improvement,650.0,0
+29.0,63831.0,3–5 years,Rent,17348.0,8.43,Car,728.0,0
+34.0,76332.0,5–10 years,Rent,11710.0,8.2,-,-,0
+64.0,45020.0,3–5 years,Own,8999.0,13.37,Debt consolidation,736.0,0
+66.0,79322.0,3–5 years,Mortgage,11763.0,9.12,Vacation,732.0,0
+63.0,65413.0,3–5 years,Rent,12324.0,17.02,Debt consolidation,680.0,0
+61.0,61211.0,3–5 years,-,16429.0,8.41,Debt consolidation,666.0,0
+44.0,-,<1 year,Other,14445.0,12.18,Home improvement,634.0,0
+21.0,-,-,Rent,21718.0,13.44,Home improvement,796.0,0
+52.0,77686.0,<1 year,Mortgage,9825.0,11.94,Debt consolidation,849.0,0
+67.0,49088.0,1–3 years,Other,13409.0,9.12,Car,805.0,0
+24.0,63855.0,5–10 years,Rent,11852.0,16.36,Vacation,703.0,0
+33.0,36306.0,1–3 years,Mortgage,19645.0,9.63,Other,689.0,1
+67.0,33314.0,3–5 years,Mortgage,14592.0,9.48,Car,770.0,0
+57.0,50000000.0,10+ years,Own,15612.0,14.29,Car,-,0
+34.0,30012.0,5–10 years,Rent,12595.0,9.26,Debt consolidation,643.0,0
+30.0,30632.0,3–5 years,Mortgage,20121.0,13.69,Vacation,765.0,0
+72.0,96549.0,3–5 years,Own,11825.0,13.39,Debt consolidation,733.0,0
+45.0,15000.0,3–5 years,Rent,20851.0,10.79,Debt consolidation,647.0,0
+63.0,94481.0,5–10 years,Own,5060.0,10.67,Car,-,0
+70.0,68953.0,5–10 years,Own,7683.0,14.83,Home improvement,748.0,0
+48.0,52837.0,-,Rent,12127.0,9.94,Car,755.0,0
+68.0,77726.0,3–5 years,Mortgage,21966.0,11.08,Debt consolidation,698.0,0
+65.0,86367.0,-,Rent,14131.0,8.89,Debt consolidation,687.0,0
+46.0,39928.0,5–10 years,Own,13104.0,15.65,-,694.0,0
+60.0,110762.0,3–5 years,Rent,16176.0,8.47,Debt consolidation,696.0,0
+-,-,3–5 years,Mortgage,10425.0,12.74,Other,705.0,0
+48.0,59112.0,3–5 years,Mortgage,14851.0,17.06,Vacation,668.0,0
+48.0,45345.0,5–10 years,Rent,4535.0,11.57,Other,793.0,0
+68.0,96507.0,3–5 years,Mortgage,16991.0,12.45,Home improvement,769.0,0
+64.0,85334.0,5–10 years,Rent,26933.0,12.97,Vacation,699.0,0
+73.0,55655.0,<1 year,Mortgage,15022.0,12.51,Car,729.0,0
+72.0,46683.0,5–10 years,Rent,18125.0,11.95,Car,728.0,0
+37.0,64814.0,1–3 years,Other,18091.0,15.71,Debt consolidation,641.0,0
+70.0,96683.0,10+ years,Own,6394.0,11.97,Home improvement,-,0
+-,40322.0,10+ years,Rent,16583.0,12.97,Debt consolidation,707.0,0
+35.0,85928.0,-,Own,20596.0,14.56,Home improvement,678.0,0
+71.0,57287.0,3–5 years,Rent,15073.0,9.9,Debt consolidation,659.0,0
+69.0,19435.0,5–10 years,-,14709.0,15.58,Debt consolidation,719.0,0
+63.0,75160.0,-,Own,20613.0,13.1,Home improvement,603.0,0
+29.0,-,5–10 years,Mortgage,6539.0,6.53,Education,738.0,0
+58.0,71621.0,10+ years,Own,19994.0,17.32,Debt consolidation,777.0,0
+48.0,-,1–3 years,Own,8281.0,6.6,Debt consolidation,677.0,0
+52.0,99010.0,5–10 years,Rent,19332.0,10.05,-,694.0,0
+63.0,52720.0,-,Mortgage,13013.0,14.45,Debt consolidation,640.0,0
+62.0,59361.0,3–5 years,Rent,23384.0,13.9,Other,780.0,0
+71.0,-,3–5 years,Own,17274.0,8.81,Debt consolidation,668.0,0
+64.0,57386.0,10+ years,Rent,23353.0,9.51,Debt consolidation,743.0,0
+70.0,47189.0,10+ years,Other,6593.0,12.19,Education,665.0,0
+67.0,57138.0,1–3 years,Rent,12961.0,12.61,Car,726.0,0
+68.0,47105.0,5–10 years,Rent,13227.0,12.98,Vacation,-,0
+34.0,28620.0,<1 year,Other,20828.0,10.99,Debt consolidation,691.0,1
+35.0,64525.0,3–5 years,Mortgage,9858.0,7.55,Car,700.0,0
+58.0,78429.0,1–3 years,Rent,12311.0,14.11,Debt consolidation,669.0,0
+54.0,37951.0,-,Other,8429.0,11.24,Debt consolidation,787.0,0
+23.0,93020.0,1–3 years,-,16147.0,15.58,Education,-,0
+26.0,57558.0,1–3 years,Own,10035.0,12.86,Home improvement,792.0,0
+65.0,51251.0,1–3 years,Rent,23880.0,12.75,Debt consolidation,647.0,0
+57.0,56623.0,5–10 years,Mortgage,13757.0,15.39,Debt consolidation,714.0,0
+68.0,33949.0,3–5 years,Mortgage,13289.0,8.66,Vacation,697.0,0
+39.0,67819.0,3–5 years,Mortgage,17621.0,5.09,Vacation,781.0,0
+42.0,32746.0,5–10 years,Rent,5870.0,12.55,Debt consolidation,766.0,0
+38.0,54040.0,-,Own,13340.0,11.0,Education,755.0,0
+62.0,43121.0,3–5 years,Own,19377.0,15.52,Home improvement,689.0,0
+35.0,18510.0,-,Rent,21443.0,9.06,Debt consolidation,712.0,0
+-,81325.0,3–5 years,Mortgage,13735.0,13.1,Debt consolidation,727.0,0
+29.0,67822.0,5–10 years,Rent,2050.0,15.22,Debt consolidation,717.0,0
+47.0,95236.0,-,Own,10664.0,10.15,-,659.0,0
+28.0,80717.0,3–5 years,Own,13657.0,11.87,Vacation,629.0,0
+50.0,55643.0,3–5 years,Own,8879.0,9.58,Other,-,0
+63.0,67693.0,5–10 years,Rent,21294.0,15.19,Home improvement,704.0,0
+64.0,52398.0,10+ years,Other,22025.0,12.47,Home improvement,710.0,0
+30.0,15000.0,-,Own,13206.0,14.8,Debt consolidation,740.0,0
+53.0,55583.0,5–10 years,Rent,24197.0,7.43,Car,-,0
+54.0,-,10+ years,Mortgage,12396.0,11.94,Debt consolidation,693.0,0
+46.0,50000000.0,<1 year,Own,12023.0,14.49,Debt consolidation,780.0,0
+68.0,70257.0,3–5 years,Rent,13913.0,10.88,Car,738.0,0
+50.0,60497.0,-,Rent,18528.0,11.28,Car,755.0,0
+38.0,57319.0,-,Own,14240.0,11.67,Other,784.0,0
+47.0,56213.0,5–10 years,Rent,24752.0,8.66,Debt consolidation,643.0,0
+33.0,76399.0,3–5 years,Mortgage,12751.0,12.59,Other,-,0
+56.0,89080.0,5–10 years,Rent,12763.0,11.25,Debt consolidation,642.0,0
+60.0,78570.0,<1 year,Own,16894.0,15.41,Home improvement,669.0,1
+35.0,29623.0,-,Mortgage,11848.0,8.53,Debt consolidation,769.0,0
+41.0,69292.0,10+ years,Mortgage,14300.0,12.73,Vacation,698.0,0
+31.0,62978.0,<1 year,Rent,20618.0,17.93,Debt consolidation,708.0,0
+64.0,71353.0,3–5 years,Mortgage,2247.0,16.31,Debt consolidation,786.0,0
+55.0,51854.0,1–3 years,Rent,10782.0,9.42,Education,762.0,0
+37.0,61068.0,1–3 years,Own,14059.0,7.2,Car,789.0,0
+59.0,63471.0,10+ years,Own,22937.0,16.55,Car,716.0,0
+68.0,16060.0,3–5 years,Mortgage,12499.0,14.2,Debt consolidation,601.0,0
+65.0,47306.0,1–3 years,Other,12094.0,10.14,Debt consolidation,709.0,0
+74.0,29413.0,3–5 years,Own,20997.0,13.24,Debt consolidation,761.0,0
+64.0,68389.0,-,Rent,19860.0,14.05,Car,721.0,0
+30.0,71847.0,1–3 years,Rent,12539.0,12.92,Debt consolidation,731.0,0
+34.0,42412.0,3–5 years,Mortgage,9924.0,14.93,Car,740.0,0
+24.0,69195.0,<1 year,Rent,25335.0,13.47,Other,683.0,0
+57.0,70953.0,1–3 years,Own,20730.0,9.95,Car,723.0,0
+57.0,78542.0,<1 year,Own,19951.0,11.36,Debt consolidation,696.0,0
+66.0,51660.0,5–10 years,Rent,9560.0,9.13,Debt consolidation,617.0,0
+30.0,61495.0,3–5 years,Own,6520.0,12.54,Home improvement,760.0,0
+42.0,64371.0,3–5 years,Rent,13801.0,14.29,Vacation,729.0,0
+26.0,93223.0,10+ years,Rent,14640.0,9.75,Car,748.0,0
+23.0,50000000.0,3–5 years,Own,17692.0,14.64,Home improvement,749.0,0
+25.0,-,3–5 years,Rent,14300.0,12.75,-,689.0,1
+-,46877.0,10+ years,Rent,6527.0,17.47,Debt consolidation,648.0,0
+45.0,26813.0,<1 year,Rent,18179.0,12.15,Debt consolidation,706.0,0
+47.0,63495.0,10+ years,-,4306.0,10.17,Home improvement,629.0,0
+49.0,65628.0,1–3 years,Other,15771.0,14.41,Car,758.0,0
+40.0,72628.0,<1 year,Own,14572.0,10.18,Debt consolidation,730.0,1
+40.0,-,1–3 years,Own,22720.0,10.63,Car,-,0
+49.0,65416.0,1–3 years,Other,17429.0,12.0,Debt consolidation,710.0,0
+28.0,43449.0,5–10 years,Own,12192.0,12.37,Car,708.0,0
+31.0,73597.0,5–10 years,Own,22083.0,8.67,Debt consolidation,656.0,0
+63.0,85879.0,5–10 years,Rent,15540.0,14.46,Car,759.0,0
+28.0,-,10+ years,Own,1000.0,10.63,Debt consolidation,686.0,0
+72.0,63828.0,5–10 years,Own,10171.0,11.94,Home improvement,754.0,0
+59.0,59899.0,1–3 years,Rent,16336.0,14.21,Education,694.0,0
+22.0,51261.0,10+ years,Other,19126.0,8.27,Debt consolidation,706.0,0
+33.0,45002.0,3–5 years,Rent,17307.0,14.14,Other,726.0,0
+46.0,51115.0,-,Mortgage,16524.0,8.33,Debt consolidation,699.0,0
+54.0,37576.0,1–3 years,Own,5232.0,7.32,Debt consolidation,682.0,0
+49.0,65812.0,5–10 years,Rent,22410.0,11.77,Debt consolidation,763.0,0
+40.0,80827.0,3–5 years,Own,18289.0,9.39,Vacation,690.0,0
+49.0,58099.0,10+ years,Other,18898.0,10.72,Debt consolidation,717.0,0
+74.0,36034.0,10+ years,Rent,20994.0,12.74,Car,718.0,0
+47.0,79996.0,3–5 years,Rent,12131.0,12.11,Debt consolidation,-,0
+65.0,39641.0,5–10 years,-,18607.0,13.95,Home improvement,597.0,0
+43.0,42083.0,3–5 years,Rent,16981.0,12.77,Home improvement,659.0,0
+30.0,49127.0,3–5 years,Own,12595.0,10.25,Car,620.0,0
+70.0,68878.0,5–10 years,Rent,27156.0,14.37,Home improvement,739.0,0
+45.0,91490.0,3–5 years,Rent,10968.0,14.87,Debt consolidation,718.0,0
+60.0,29288.0,5–10 years,Mortgage,17926.0,11.36,Home improvement,720.0,0
+22.0,78020.0,5–10 years,Rent,24773.0,15.37,Debt consolidation,738.0,0
+49.0,65442.0,1–3 years,Rent,14654.0,6.34,Education,749.0,0
+-,43677.0,10+ years,Rent,14531.0,9.97,Debt consolidation,728.0,0
+74.0,68080.0,5–10 years,Own,10492.0,14.16,Education,632.0,0
+64.0,67761.0,-,Rent,12181.0,10.62,Debt consolidation,708.0,0
+67.0,98494.0,1–3 years,Rent,15665.0,13.04,Debt consolidation,791.0,0
+21.0,16797.0,3–5 years,Own,21348.0,11.83,Debt consolidation,751.0,0
+43.0,26556.0,1–3 years,Rent,14192.0,9.97,Education,715.0,0
+26.0,90859.0,<1 year,Rent,11600.0,9.7,Vacation,-,0
+37.0,31230.0,3–5 years,Rent,14913.0,12.38,Home improvement,785.0,0
+41.0,52836.0,<1 year,Rent,16980.0,11.2,Debt consolidation,678.0,0
+56.0,34017.0,-,Rent,18992.0,10.75,Home improvement,746.0,0
+27.0,55915.0,3–5 years,Rent,14557.0,12.06,Debt consolidation,656.0,0
+60.0,73765.0,1–3 years,Mortgage,15416.0,9.18,Debt consolidation,735.0,0
+40.0,95935.0,5–10 years,Own,15706.0,9.25,Education,659.0,0
+68.0,70417.0,5–10 years,Rent,22231.0,8.98,Car,-,0
+41.0,66831.0,-,Own,15852.0,15.25,Debt consolidation,697.0,0
+57.0,84277.0,3–5 years,Other,12232.0,13.83,Vacation,596.0,0
+49.0,86154.0,-,Own,15546.0,12.98,Car,670.0,0
+29.0,68169.0,5–10 years,Mortgage,14625.0,18.03,Car,643.0,0
+49.0,82800.0,3–5 years,Own,18240.0,13.06,Vacation,646.0,1
+27.0,50771.0,-,Own,12685.0,8.12,Debt consolidation,693.0,0
+63.0,50088.0,1–3 years,Rent,17879.0,10.32,Debt consolidation,693.0,0
+60.0,61196.0,5–10 years,Own,15076.0,10.84,Home improvement,719.0,0
+59.0,65587.0,5–10 years,Own,12556.0,11.42,Debt consolidation,690.0,0
+64.0,78244.0,3–5 years,Own,24310.0,13.91,Car,711.0,0
+49.0,80830.0,<1 year,Mortgage,12965.0,8.44,Debt consolidation,732.0,0
+62.0,38817.0,1–3 years,Mortgage,23976.0,12.42,Education,658.0,0
+66.0,51673.0,5–10 years,Other,17198.0,13.78,Debt consolidation,763.0,0
+70.0,62386.0,3–5 years,Mortgage,5484.0,10.22,Vacation,737.0,0
+50.0,41181.0,3–5 years,Own,17942.0,13.54,Car,-,0
+-,76371.0,3–5 years,Mortgage,10749.0,8.42,Home improvement,733.0,0
+55.0,65992.0,1–3 years,Rent,12496.0,11.13,Car,683.0,0
+35.0,73979.0,1–3 years,Rent,13327.0,14.35,Home improvement,-,0
+21.0,-,3–5 years,Other,14343.0,11.35,Debt consolidation,692.0,0
+64.0,53076.0,3–5 years,Mortgage,9902.0,10.65,Debt consolidation,790.0,0
+42.0,68832.0,-,Rent,15274.0,13.24,Education,752.0,0
+57.0,50701.0,<1 year,Rent,15979.0,11.91,Home improvement,771.0,0
+28.0,40408.0,5–10 years,Mortgage,6338.0,16.81,Home improvement,786.0,0
+26.0,54081.0,5–10 years,Own,8350.0,11.61,Debt consolidation,662.0,0
+74.0,64436.0,1–3 years,Rent,10173.0,14.02,Car,678.0,0
+56.0,59628.0,5–10 years,Own,13158.0,12.49,Car,656.0,0
+60.0,85615.0,3–5 years,Own,15477.0,10.07,Debt consolidation,633.0,0
+44.0,62082.0,10+ years,Rent,8671.0,11.49,Debt consolidation,645.0,0
+32.0,80447.0,1–3 years,Rent,13614.0,8.65,Debt consolidation,658.0,0
+66.0,60215.0,5–10 years,Rent,10521.0,13.73,Debt consolidation,-,0
+55.0,90248.0,10+ years,Rent,15227.0,11.65,Home improvement,716.0,0
+56.0,36642.0,10+ years,Mortgage,9279.0,10.65,Home improvement,-,0
+36.0,68826.0,5–10 years,Own,15807.0,14.52,Debt consolidation,711.0,0
+65.0,86964.0,1–3 years,Rent,18186.0,15.02,Debt consolidation,726.0,0
+49.0,34259.0,10+ years,Own,25131.0,12.2,Debt consolidation,721.0,0
+51.0,36514.0,1–3 years,-,10849.0,15.27,Debt consolidation,-,0
+62.0,32346.0,<1 year,Own,20164.0,9.72,Home improvement,797.0,0
+53.0,73448.0,1–3 years,Rent,13742.0,16.34,Other,596.0,0
+54.0,-,1–3 years,Mortgage,19608.0,11.47,Debt consolidation,697.0,0
+51.0,105955.0,3–5 years,Mortgage,8889.0,15.86,Other,720.0,0
+57.0,53773.0,<1 year,-,8955.0,18.62,Education,709.0,0
+46.0,17634.0,10+ years,-,10452.0,12.83,Debt consolidation,756.0,0
+38.0,92665.0,-,Own,22509.0,9.75,Home improvement,644.0,0
+31.0,70500.0,3–5 years,Rent,17295.0,11.5,Debt consolidation,715.0,0
+74.0,58018.0,3–5 years,Rent,18934.0,8.89,Education,664.0,0
+54.0,58862.0,3–5 years,Own,22757.0,9.73,Debt consolidation,714.0,0
+44.0,42823.0,5–10 years,Mortgage,16169.0,12.5,Vacation,653.0,0
+71.0,53417.0,3–5 years,Own,11882.0,8.24,Vacation,688.0,0
+59.0,55960.0,-,Mortgage,14210.0,11.2,Home improvement,674.0,0
+24.0,29699.0,1–3 years,Rent,19528.0,10.46,Car,729.0,0
+46.0,34955.0,3–5 years,Own,7740.0,12.12,Debt consolidation,603.0,0
+47.0,54295.0,1–3 years,Rent,9200.0,11.08,Debt consolidation,705.0,0
+60.0,-,3–5 years,Mortgage,15353.0,17.28,Debt consolidation,696.0,0
+58.0,39092.0,5–10 years,Mortgage,16265.0,12.4,Home improvement,678.0,0
+44.0,82326.0,5–10 years,Mortgage,12659.0,5.58,Debt consolidation,635.0,0
+33.0,-,5–10 years,Rent,20494.0,10.21,Debt consolidation,722.0,0
+65.0,65179.0,1–3 years,Own,24329.0,9.48,Home improvement,718.0,0
+23.0,61272.0,<1 year,Rent,9276.0,14.54,Debt consolidation,653.0,0
+34.0,39445.0,5–10 years,Own,14915.0,11.19,Debt consolidation,696.0,0
+26.0,46157.0,5–10 years,Own,21398.0,9.25,Debt consolidation,690.0,0
+29.0,105241.0,10+ years,Rent,13898.0,16.18,Car,649.0,0
+43.0,78616.0,10+ years,Own,8503.0,13.37,Home improvement,753.0,0
+71.0,50000000.0,5–10 years,Rent,15745.0,14.56,Car,673.0,0
+50.0,33812.0,3–5 years,Mortgage,10872.0,12.19,Debt consolidation,589.0,0
+58.0,32702.0,1–3 years,Mortgage,20055.0,9.42,Debt consolidation,691.0,0
+37.0,76647.0,1–3 years,Rent,16587.0,12.49,Education,687.0,0
+43.0,60892.0,3–5 years,Rent,15820.0,9.49,-,708.0,0
+49.0,46055.0,5–10 years,Own,7979.0,13.52,Debt consolidation,757.0,0
+56.0,73269.0,10+ years,Own,14300.0,11.24,Other,-,0
+64.0,65416.0,10+ years,Mortgage,16824.0,11.06,Education,721.0,0
+21.0,109852.0,3–5 years,Own,6520.0,12.36,Home improvement,691.0,0
+73.0,-,3–5 years,Rent,10053.0,8.16,Vacation,762.0,0
+72.0,94078.0,3–5 years,Rent,11311.0,11.07,Debt consolidation,729.0,0
+54.0,52843.0,3–5 years,Rent,13351.0,11.14,Debt consolidation,674.0,0
+26.0,86531.0,5–10 years,Own,15889.0,9.03,Debt consolidation,757.0,0
+64.0,19980.0,3–5 years,Own,8376.0,10.59,Home improvement,662.0,0
+46.0,51693.0,3–5 years,Rent,18841.0,17.51,Home improvement,696.0,0
+23.0,44997.0,5–10 years,Rent,10112.0,18.97,Home improvement,761.0,0
+68.0,69274.0,3–5 years,Rent,20232.0,19.01,Education,686.0,0
+25.0,64757.0,3–5 years,Rent,18157.0,14.22,Debt consolidation,779.0,0
+73.0,74482.0,3–5 years,Own,11409.0,12.9,Home improvement,779.0,0
+54.0,43790.0,<1 year,Rent,19378.0,9.06,Home improvement,745.0,0
+52.0,50040.0,3–5 years,Rent,12963.0,10.33,Home improvement,628.0,0
+52.0,64864.0,5–10 years,Other,16595.0,6.63,Other,-,0
+60.0,-,-,Rent,15859.0,8.41,Education,756.0,0
+54.0,63252.0,1–3 years,Other,12390.0,11.84,Education,603.0,1
+35.0,95058.0,1–3 years,Own,13752.0,9.81,Home improvement,711.0,0
+42.0,75313.0,1–3 years,Rent,17152.0,7.59,Car,770.0,0
+32.0,51535.0,3–5 years,Mortgage,12933.0,13.48,Debt consolidation,733.0,0
+66.0,60489.0,3–5 years,Own,15657.0,12.88,Vacation,702.0,0
+63.0,49517.0,<1 year,Own,16233.0,8.8,Home improvement,609.0,0
+68.0,77587.0,1–3 years,Mortgage,13531.0,14.11,Education,712.0,0
+71.0,42381.0,1–3 years,-,13223.0,12.23,Other,738.0,0
+40.0,76483.0,-,Mortgage,13415.0,15.34,Vacation,744.0,0
+45.0,35250.0,5–10 years,Rent,16551.0,13.92,Car,637.0,0
+30.0,64449.0,10+ years,Mortgage,15313.0,14.13,Home improvement,727.0,0
+51.0,48409.0,3–5 years,Rent,21715.0,9.67,Debt consolidation,766.0,0
+46.0,70222.0,1–3 years,Mortgage,23248.0,6.91,Debt consolidation,-,0
+29.0,74581.0,<1 year,Rent,14768.0,7.63,-,637.0,0
+30.0,43249.0,10+ years,Mortgage,19217.0,17.86,Car,-,0
+52.0,33249.0,3–5 years,Rent,16280.0,11.4,Debt consolidation,670.0,0
+71.0,72834.0,1–3 years,Own,16209.0,14.57,Debt consolidation,681.0,0
+39.0,53076.0,5–10 years,Mortgage,17621.0,11.1,Debt consolidation,779.0,0
+49.0,74205.0,<1 year,Rent,14490.0,7.04,Home improvement,-,0
+70.0,56434.0,5–10 years,Own,16693.0,14.65,Debt consolidation,651.0,0
+53.0,41408.0,1–3 years,Rent,9501.0,14.43,Home improvement,673.0,0
+35.0,-,<1 year,Rent,17258.0,11.82,Education,744.0,0
+69.0,42959.0,5–10 years,Mortgage,15037.0,16.85,Car,719.0,0
+31.0,76187.0,3–5 years,Own,25231.0,10.47,Home improvement,685.0,0
+52.0,50000000.0,1–3 years,Own,23920.0,12.86,Debt consolidation,743.0,0
+22.0,51236.0,10+ years,Rent,16142.0,9.24,Education,703.0,0
+65.0,53556.0,5–10 years,Own,11924.0,10.13,Debt consolidation,669.0,0
+69.0,76484.0,1–3 years,-,17071.0,11.49,Other,-,0
+62.0,75136.0,10+ years,Rent,19049.0,12.07,Home improvement,811.0,0
+44.0,57922.0,-,Rent,13583.0,14.46,Vacation,721.0,0
+53.0,76871.0,-,Rent,20288.0,13.37,Home improvement,641.0,0
+26.0,44938.0,10+ years,Rent,8183.0,9.92,Vacation,724.0,0
+32.0,69588.0,10+ years,Mortgage,13700.0,10.18,Debt consolidation,675.0,0
+43.0,-,3–5 years,Mortgage,3825.0,12.23,Vacation,733.0,0
+59.0,50925.0,3–5 years,Rent,12480.0,15.43,Vacation,680.0,0
+25.0,86104.0,3–5 years,Own,18415.0,17.78,-,760.0,0
+63.0,64878.0,3–5 years,Own,23451.0,14.1,Car,713.0,0
+57.0,47559.0,3–5 years,Own,12870.0,14.26,Debt consolidation,591.0,0
+40.0,38584.0,5–10 years,-,11979.0,13.37,Debt consolidation,738.0,0
+38.0,87631.0,5–10 years,-,14675.0,14.0,Debt consolidation,690.0,0
+34.0,31004.0,1–3 years,Mortgage,24619.0,7.72,Education,667.0,0
+30.0,45665.0,<1 year,Mortgage,10221.0,9.02,Vacation,781.0,0
+42.0,58191.0,5–10 years,-,7123.0,15.4,Car,635.0,0
+56.0,81186.0,3–5 years,Rent,12896.0,8.36,Debt consolidation,642.0,0
+68.0,42721.0,3–5 years,Rent,15103.0,9.79,Debt consolidation,654.0,0
+65.0,57665.0,<1 year,Own,13255.0,9.65,Home improvement,792.0,0
+42.0,50000000.0,3–5 years,Rent,17610.0,8.75,Debt consolidation,650.0,0
+21.0,28057.0,5–10 years,Own,20926.0,13.3,Other,-,0
+48.0,50000000.0,1–3 years,Other,16511.0,14.88,Debt consolidation,706.0,0
+64.0,73211.0,3–5 years,Own,20732.0,12.71,Education,743.0,0
+67.0,76970.0,1–3 years,Rent,15378.0,11.16,Vacation,-,0
+38.0,52590.0,5–10 years,-,14289.0,10.79,Vacation,639.0,0
+32.0,51348.0,10+ years,Mortgage,9395.0,10.52,Debt consolidation,709.0,0
+64.0,34283.0,1–3 years,Mortgage,17533.0,18.47,Debt consolidation,732.0,0
+38.0,104329.0,10+ years,Rent,16320.0,14.25,Home improvement,701.0,0
+23.0,44282.0,1–3 years,Rent,22273.0,14.47,Vacation,686.0,0
+45.0,84097.0,5–10 years,Mortgage,1534.0,12.08,Car,695.0,0
+53.0,42644.0,10+ years,Rent,15441.0,17.21,Home improvement,722.0,0
+43.0,59590.0,<1 year,Own,12591.0,14.06,Education,735.0,0
+42.0,37948.0,5–10 years,Rent,17742.0,9.31,Car,726.0,0
+61.0,49198.0,1–3 years,Rent,10343.0,15.98,Debt consolidation,668.0,0
+40.0,77725.0,10+ years,Mortgage,4366.0,13.5,Vacation,697.0,0
+29.0,21078.0,1–3 years,Mortgage,11339.0,13.97,Home improvement,631.0,0
+47.0,58253.0,5–10 years,Own,6790.0,11.26,Debt consolidation,790.0,0
+62.0,61289.0,<1 year,Own,15848.0,13.72,Vacation,685.0,0
+25.0,43135.0,3–5 years,Mortgage,16590.0,13.39,Other,742.0,0
+68.0,60023.0,<1 year,Own,25295.0,12.02,Debt consolidation,662.0,0
+69.0,67428.0,10+ years,Rent,13294.0,17.65,Education,-,0
+49.0,44527.0,3–5 years,-,9494.0,7.87,Debt consolidation,-,0
+52.0,90517.0,1–3 years,Own,9462.0,10.46,Car,737.0,0
+52.0,104998.0,5–10 years,Rent,12256.0,20.51,Other,642.0,0
+44.0,60894.0,1–3 years,Mortgage,14138.0,14.59,Debt consolidation,648.0,1
+62.0,34871.0,3–5 years,Other,14556.0,15.28,Vacation,-,0
+60.0,85718.0,<1 year,Own,20871.0,10.0,Home improvement,759.0,0
+41.0,-,3–5 years,Rent,1000.0,11.24,Debt consolidation,698.0,0
+32.0,40632.0,5–10 years,Rent,13140.0,7.69,Other,676.0,0
+34.0,45204.0,3–5 years,Mortgage,17402.0,9.82,Debt consolidation,666.0,0
+55.0,62354.0,5–10 years,Mortgage,8212.0,13.76,Vacation,633.0,0
+70.0,59642.0,1–3 years,Own,24874.0,12.65,Home improvement,779.0,0
+24.0,56116.0,3–5 years,Own,9715.0,16.17,Debt consolidation,751.0,0
+41.0,62456.0,10+ years,Mortgage,10398.0,15.0,Car,726.0,0
+38.0,30871.0,<1 year,Mortgage,16998.0,16.67,Education,711.0,0
+69.0,86904.0,3–5 years,Own,16074.0,9.97,Education,664.0,0
+63.0,54360.0,3–5 years,Own,25051.0,14.37,Car,668.0,1
+36.0,34360.0,<1 year,-,18213.0,14.32,Car,763.0,0
+28.0,82030.0,5–10 years,Own,26071.0,12.65,Home improvement,656.0,0
+59.0,54654.0,<1 year,Own,10476.0,8.82,Other,713.0,0
+65.0,60532.0,5–10 years,Own,10832.0,14.89,Education,696.0,0
+42.0,62007.0,5–10 years,Mortgage,12464.0,8.63,Debt consolidation,749.0,0
+73.0,42753.0,10+ years,Rent,16373.0,10.84,Debt consolidation,661.0,0
+67.0,88085.0,10+ years,Rent,16961.0,13.37,Debt consolidation,664.0,0
+38.0,87224.0,1–3 years,Own,13487.0,13.66,Debt consolidation,744.0,0
+25.0,57876.0,5–10 years,-,13051.0,11.1,Debt consolidation,708.0,0
+60.0,63343.0,5–10 years,Rent,14652.0,15.74,Home improvement,789.0,0
+-,58138.0,-,Rent,15781.0,5.0,-,696.0,0
+67.0,47647.0,3–5 years,-,13369.0,8.58,Debt consolidation,-,0
+44.0,66255.0,5–10 years,Mortgage,22720.0,12.6,Debt consolidation,690.0,0
+51.0,-,3–5 years,Own,25477.0,9.35,Car,621.0,0
+30.0,38786.0,5–10 years,Rent,23250.0,13.66,Home improvement,641.0,0
+72.0,81841.0,-,Mortgage,12168.0,14.06,Car,710.0,0
+30.0,46581.0,1–3 years,Own,16263.0,12.53,Debt consolidation,761.0,0
+24.0,69421.0,5–10 years,Own,23396.0,11.3,Debt consolidation,730.0,0
+66.0,90297.0,10+ years,Mortgage,11396.0,11.44,Debt consolidation,704.0,0
+71.0,57172.0,10+ years,Rent,21156.0,10.14,Education,758.0,0
+74.0,55359.0,1–3 years,Mortgage,4931.0,16.39,Debt consolidation,-,0
+71.0,75027.0,-,Rent,14394.0,11.82,Vacation,650.0,0
+38.0,36498.0,10+ years,Rent,23757.0,9.54,Education,683.0,0
+51.0,64300.0,5–10 years,Rent,11622.0,18.08,Education,-,0
+28.0,53472.0,3–5 years,Rent,13893.0,9.12,Other,663.0,0
+32.0,85654.0,3–5 years,Mortgage,3960.0,12.9,Debt consolidation,772.0,0
+58.0,61038.0,3–5 years,Own,17237.0,13.03,Car,711.0,0
+48.0,56168.0,1–3 years,Rent,17721.0,15.64,Education,728.0,0
+49.0,46378.0,5–10 years,Other,9641.0,7.97,Debt consolidation,662.0,0
+51.0,73156.0,1–3 years,Rent,15766.0,7.37,Home improvement,724.0,0
+37.0,-,5–10 years,Mortgage,17132.0,7.71,Debt consolidation,702.0,0
+28.0,65622.0,3–5 years,Own,18876.0,11.34,Education,677.0,0
+34.0,62389.0,3–5 years,Own,23788.0,13.79,-,731.0,0
+37.0,53718.0,3–5 years,Own,15781.0,11.86,Car,676.0,0
+29.0,76919.0,5–10 years,Rent,11335.0,11.01,Vacation,-,0
+-,53881.0,5–10 years,Own,23500.0,11.8,Debt consolidation,638.0,0
+37.0,-,1–3 years,Rent,15313.0,11.76,Vacation,733.0,0
+29.0,83746.0,3–5 years,Mortgage,21193.0,10.96,Car,684.0,0
+60.0,57765.0,3–5 years,-,18243.0,11.59,Car,802.0,0
+61.0,-,10+ years,Rent,12433.0,7.39,Debt consolidation,670.0,0
+47.0,50000000.0,1–3 years,Rent,16356.0,10.4,Other,793.0,0
+49.0,57026.0,3–5 years,Own,14109.0,14.14,Home improvement,689.0,0
+42.0,55495.0,3–5 years,Mortgage,12931.0,17.48,Home improvement,645.0,0
+45.0,78021.0,<1 year,Own,10477.0,13.55,Other,754.0,0
+21.0,32903.0,1–3 years,Other,16950.0,13.09,Debt consolidation,729.0,0
+37.0,-,5–10 years,Rent,9443.0,14.09,Debt consolidation,746.0,0
+51.0,84067.0,3–5 years,Mortgage,8745.0,12.72,Home improvement,752.0,0
+23.0,41107.0,5–10 years,Rent,22182.0,7.92,Vacation,733.0,0
+-,28822.0,5–10 years,Rent,9638.0,12.59,Home improvement,785.0,0
+25.0,49572.0,3–5 years,Own,18858.0,5.99,Debt consolidation,701.0,0
+46.0,43407.0,3–5 years,Rent,22807.0,13.97,Debt consolidation,739.0,0
+25.0,78771.0,3–5 years,Rent,12925.0,16.21,Debt consolidation,692.0,0
+27.0,38253.0,10+ years,Own,14851.0,11.95,-,708.0,0
+43.0,84869.0,3–5 years,Own,16079.0,13.08,Home improvement,717.0,0
+33.0,63579.0,1–3 years,Rent,21570.0,14.38,Car,635.0,0
+60.0,98894.0,1–3 years,Mortgage,17291.0,11.23,Debt consolidation,-,0
+45.0,64280.0,1–3 years,Rent,12533.0,11.77,Car,688.0,0
+31.0,69706.0,3–5 years,Rent,6402.0,14.38,Car,768.0,0
+60.0,36123.0,5–10 years,Mortgage,14665.0,7.72,Debt consolidation,-,0
+51.0,60930.0,1–3 years,Rent,15034.0,16.48,-,691.0,0
+41.0,44673.0,5–10 years,Rent,17343.0,8.79,Vacation,741.0,0
+73.0,59778.0,-,Own,23768.0,10.86,Education,722.0,0
+41.0,40666.0,1–3 years,Rent,13517.0,13.34,Home improvement,597.0,0
+31.0,54544.0,10+ years,Rent,15932.0,8.45,Home improvement,745.0,0
+61.0,79576.0,10+ years,Other,18018.0,10.18,Debt consolidation,745.0,0
+54.0,85334.0,1–3 years,Rent,13455.0,21.28,Home improvement,619.0,0
+23.0,70798.0,<1 year,Rent,15445.0,15.63,Education,617.0,0
+40.0,-,5–10 years,Own,17661.0,14.09,Debt consolidation,-,0
+21.0,72259.0,3–5 years,Own,17646.0,10.33,Home improvement,752.0,0
+45.0,107784.0,<1 year,Rent,14234.0,12.09,Home improvement,652.0,0
+31.0,81707.0,3–5 years,Rent,23027.0,12.15,Debt consolidation,784.0,0
+56.0,59220.0,3–5 years,Mortgage,15256.0,14.69,Home improvement,790.0,0
+25.0,64151.0,10+ years,-,13949.0,5.0,Debt consolidation,768.0,0
+74.0,63335.0,3–5 years,Mortgage,18791.0,11.67,-,695.0,0
+63.0,56380.0,3–5 years,Mortgage,18210.0,13.85,Vacation,618.0,0
+62.0,23232.0,1–3 years,Mortgage,11357.0,7.93,Vacation,743.0,0
+73.0,69129.0,1–3 years,Mortgage,20437.0,12.09,Home improvement,790.0,0
+22.0,-,3–5 years,Mortgage,9198.0,9.78,Debt consolidation,754.0,0
+21.0,68801.0,10+ years,Mortgage,23783.0,16.92,Debt consolidation,619.0,1
+37.0,77067.0,3–5 years,Rent,9006.0,12.89,Other,564.0,0
+52.0,77923.0,10+ years,Rent,19049.0,16.75,Debt consolidation,752.0,0
+57.0,50263.0,<1 year,Other,20639.0,11.36,Debt consolidation,642.0,0
+26.0,59617.0,1–3 years,Own,9227.0,11.3,Vacation,668.0,0
+54.0,62497.0,<1 year,Mortgage,23503.0,12.78,Debt consolidation,-,0
+25.0,52239.0,5–10 years,Rent,21610.0,11.2,Debt consolidation,698.0,0
+-,98233.0,3–5 years,Own,17155.0,11.94,Car,761.0,0
+59.0,66336.0,10+ years,Own,12714.0,15.45,Debt consolidation,-,1
+58.0,57673.0,3–5 years,Mortgage,15563.0,14.6,Debt consolidation,695.0,0
+34.0,37963.0,1–3 years,Rent,7601.0,8.52,Debt consolidation,781.0,0
+34.0,63711.0,10+ years,Rent,22199.0,9.0,Home improvement,659.0,0
+40.0,70302.0,5–10 years,Rent,18067.0,12.74,Home improvement,643.0,0
+44.0,85303.0,3–5 years,Rent,16467.0,11.97,Debt consolidation,741.0,0
+45.0,62883.0,10+ years,Rent,14424.0,8.58,Car,661.0,0
+56.0,34147.0,1–3 years,Rent,16249.0,10.31,Other,723.0,0
+64.0,53842.0,10+ years,Rent,8115.0,11.36,Home improvement,720.0,0
+39.0,66827.0,3–5 years,Rent,18725.0,13.07,Education,800.0,0
+32.0,-,3–5 years,Rent,13130.0,10.84,Debt consolidation,692.0,0
+36.0,44149.0,1–3 years,Own,12392.0,12.42,Home improvement,-,0
+29.0,83555.0,3–5 years,Rent,18316.0,16.81,Home improvement,724.0,0
+-,81090.0,1–3 years,Own,14013.0,10.73,Home improvement,628.0,0
+53.0,63806.0,10+ years,Mortgage,21684.0,15.57,Education,741.0,0
+25.0,39341.0,1–3 years,Mortgage,10603.0,11.42,Car,667.0,0
+37.0,29740.0,1–3 years,Mortgage,18047.0,15.16,Debt consolidation,581.0,1
+38.0,79598.0,3–5 years,Own,16084.0,6.32,Home improvement,741.0,0
+49.0,51262.0,10+ years,Rent,17972.0,12.47,Debt consolidation,648.0,0
+50.0,91138.0,3–5 years,Rent,19557.0,11.79,Debt consolidation,753.0,0
+72.0,23005.0,<1 year,Own,21139.0,11.83,Other,661.0,0
+57.0,85052.0,1–3 years,Own,10521.0,11.13,Debt consolidation,732.0,0
+21.0,30334.0,3–5 years,Own,13533.0,12.41,Home improvement,674.0,0
+23.0,39706.0,5–10 years,Mortgage,15695.0,13.37,Debt consolidation,747.0,0
+66.0,70313.0,3–5 years,Rent,10242.0,18.03,Home improvement,694.0,0
+69.0,33597.0,<1 year,Mortgage,18518.0,14.18,Other,722.0,0
+74.0,62323.0,1–3 years,Own,15148.0,5.76,Debt consolidation,-,0
+31.0,55184.0,3–5 years,Own,19338.0,15.28,Debt consolidation,589.0,0
+56.0,36350.0,10+ years,-,15622.0,15.3,Debt consolidation,664.0,0
+55.0,86124.0,10+ years,Rent,24280.0,11.71,Car,735.0,0
+51.0,62270.0,1–3 years,Rent,7565.0,9.62,Debt consolidation,710.0,0
+21.0,46169.0,1–3 years,Mortgage,6412.0,18.93,Car,651.0,0
+32.0,66412.0,1–3 years,Rent,9843.0,15.44,Home improvement,687.0,0
+-,48439.0,10+ years,Rent,30011.0,14.71,Debt consolidation,744.0,0
+56.0,31462.0,5–10 years,Own,4800.0,6.43,Debt consolidation,710.0,0
+71.0,57306.0,1–3 years,Own,16269.0,14.06,Car,826.0,0
+30.0,81826.0,10+ years,Rent,11996.0,14.53,Home improvement,588.0,0
+55.0,-,3–5 years,Own,16968.0,12.49,Debt consolidation,722.0,0
+41.0,58346.0,1–3 years,Rent,8936.0,13.89,Vacation,-,0
+69.0,43574.0,3–5 years,Own,24487.0,11.41,Debt consolidation,632.0,1
+25.0,54198.0,10+ years,Other,23828.0,11.54,-,679.0,0
+53.0,63480.0,1–3 years,Other,13578.0,12.08,Education,684.0,0
+25.0,75527.0,10+ years,Rent,18564.0,13.4,Education,671.0,0
+38.0,56493.0,3–5 years,Own,15267.0,7.87,Debt consolidation,646.0,0
+50.0,64463.0,3–5 years,Rent,15768.0,13.55,Home improvement,666.0,0
+50.0,-,10+ years,Rent,14419.0,12.14,Debt consolidation,662.0,0
+41.0,47074.0,1–3 years,Rent,11811.0,12.75,Home improvement,-,0
+55.0,56361.0,3–5 years,Rent,11026.0,12.9,Vacation,688.0,0
+40.0,78545.0,10+ years,Rent,21862.0,8.87,Car,788.0,0
+21.0,35921.0,3–5 years,Other,18687.0,13.51,Debt consolidation,776.0,0
+73.0,56831.0,3–5 years,Rent,13729.0,10.32,Other,676.0,0
+59.0,85036.0,5–10 years,Rent,11835.0,11.39,Car,676.0,0
+68.0,101419.0,10+ years,Mortgage,15340.0,17.22,Other,725.0,0
+71.0,58165.0,<1 year,Rent,15908.0,9.87,Debt consolidation,755.0,0
+46.0,61067.0,-,-,19299.0,14.67,Vacation,705.0,0
+27.0,58141.0,3–5 years,Rent,19122.0,9.4,Home improvement,759.0,0
+45.0,64397.0,10+ years,Own,12463.0,14.32,Education,722.0,0
+-,85489.0,-,-,14053.0,9.53,Vacation,698.0,0
+33.0,60646.0,5–10 years,Own,6307.0,14.85,Other,721.0,0
+62.0,51431.0,3–5 years,Rent,13746.0,13.47,Vacation,631.0,0
+57.0,-,3–5 years,Own,8506.0,16.78,Education,722.0,0
+26.0,98375.0,3–5 years,Own,21427.0,10.36,Car,625.0,0
+55.0,71637.0,<1 year,Rent,15271.0,11.73,Debt consolidation,654.0,0
+52.0,59387.0,-,Rent,14207.0,15.28,Home improvement,716.0,0
+73.0,89690.0,5–10 years,Own,14674.0,13.1,Car,-,0
+67.0,75957.0,3–5 years,Own,17354.0,11.97,Education,733.0,0
+41.0,41582.0,10+ years,Rent,24054.0,10.86,Debt consolidation,712.0,0
+31.0,-,-,Mortgage,23706.0,14.17,Debt consolidation,724.0,0
+25.0,60103.0,<1 year,Mortgage,16345.0,12.03,Debt consolidation,688.0,0
+53.0,59249.0,3–5 years,Mortgage,11051.0,9.22,Home improvement,-,0
+42.0,54401.0,3–5 years,Rent,9975.0,12.24,Other,819.0,0
+59.0,56967.0,10+ years,Rent,11340.0,14.55,Education,744.0,0
+50.0,30631.0,5–10 years,Mortgage,15781.0,10.5,Debt consolidation,697.0,0
+40.0,72433.0,5–10 years,Rent,18313.0,12.22,Home improvement,739.0,0
+73.0,57092.0,10+ years,Mortgage,18207.0,10.29,Home improvement,-,0
+61.0,93146.0,<1 year,Rent,16629.0,6.78,Car,721.0,0
+48.0,103146.0,-,Own,8731.0,11.05,Home improvement,716.0,0
+41.0,58056.0,3–5 years,Own,15332.0,13.16,Debt consolidation,787.0,0
+43.0,44982.0,10+ years,-,10089.0,16.19,Debt consolidation,689.0,0
+49.0,25058.0,10+ years,Rent,14678.0,11.81,Education,731.0,0
+59.0,48894.0,3–5 years,Mortgage,11872.0,9.46,Car,720.0,0
+31.0,72739.0,3–5 years,Own,16052.0,9.17,Debt consolidation,738.0,0
+37.0,71123.0,1–3 years,Mortgage,8442.0,12.28,Home improvement,645.0,0
+36.0,96998.0,3–5 years,Mortgage,13829.0,9.2,Education,703.0,0
+30.0,60855.0,3–5 years,Rent,16437.0,10.88,Home improvement,667.0,0
+71.0,55982.0,1–3 years,Mortgage,9224.0,7.54,-,698.0,0
+39.0,68628.0,5–10 years,Own,21138.0,6.12,Home improvement,704.0,0
+58.0,73714.0,<1 year,Own,17178.0,12.54,Car,620.0,0
+35.0,69432.0,10+ years,Rent,7263.0,11.47,Car,721.0,0
+48.0,51654.0,3–5 years,Mortgage,6872.0,12.09,Home improvement,652.0,0
+-,51520.0,1–3 years,Own,14304.0,12.61,Vacation,702.0,0
+73.0,75787.0,-,-,8814.0,12.35,Home improvement,672.0,0
+25.0,91132.0,3–5 years,Own,21552.0,10.06,Home improvement,728.0,0
+63.0,54207.0,<1 year,Mortgage,3532.0,13.76,Home improvement,695.0,0
+44.0,56335.0,-,Own,16651.0,12.21,Home improvement,636.0,1
+30.0,32397.0,3–5 years,Rent,14839.0,8.52,Car,675.0,0
+36.0,80696.0,<1 year,Rent,13875.0,12.34,Debt consolidation,706.0,0
+45.0,109783.0,10+ years,Rent,12222.0,8.46,Car,704.0,0
+22.0,79602.0,5–10 years,Mortgage,20004.0,12.25,Home improvement,682.0,1
+32.0,-,3–5 years,Rent,18984.0,9.59,Other,576.0,0
+33.0,33760.0,-,Rent,19387.0,8.67,Home improvement,690.0,0
+30.0,75597.0,-,-,25469.0,10.57,Debt consolidation,708.0,0
+72.0,66810.0,1–3 years,Own,11900.0,9.52,Other,726.0,0
+52.0,33572.0,1–3 years,Mortgage,17180.0,10.66,Debt consolidation,-,0
+71.0,-,1–3 years,Mortgage,17087.0,16.26,Debt consolidation,657.0,0
+43.0,52125.0,-,Mortgage,15901.0,16.24,Car,755.0,0
+58.0,50000000.0,1–3 years,Own,21524.0,12.83,Debt consolidation,711.0,0
+57.0,36365.0,10+ years,Own,14614.0,16.8,Education,690.0,0
+55.0,70833.0,3–5 years,Own,12807.0,15.85,Debt consolidation,750.0,0
+48.0,89368.0,1–3 years,Rent,8509.0,13.13,Debt consolidation,710.0,0
+49.0,-,5–10 years,Other,10092.0,5.0,Debt consolidation,845.0,0
+47.0,55975.0,5–10 years,Mortgage,10043.0,16.15,Other,687.0,0
+37.0,72178.0,<1 year,Rent,18933.0,16.41,Education,716.0,0
+64.0,31890.0,3–5 years,Rent,22200.0,10.96,Education,625.0,0
+56.0,83521.0,1–3 years,Rent,13523.0,15.62,Home improvement,627.0,0
+40.0,77743.0,3–5 years,Rent,16139.0,8.07,Education,716.0,0
+25.0,52458.0,3–5 years,Rent,18498.0,7.16,Debt consolidation,719.0,0
+54.0,38058.0,10+ years,Own,13384.0,9.79,Home improvement,729.0,0
+57.0,59585.0,5–10 years,Mortgage,14606.0,14.86,Debt consolidation,659.0,0
+21.0,44724.0,-,Own,6108.0,13.67,Car,733.0,0
+49.0,85404.0,1–3 years,Rent,12321.0,13.91,Education,716.0,0
+69.0,15000.0,1–3 years,Own,15142.0,17.78,Education,746.0,0
+47.0,36858.0,5–10 years,Rent,19097.0,13.0,Home improvement,652.0,0
+40.0,40364.0,1–3 years,Own,17198.0,15.08,Debt consolidation,703.0,0
+57.0,42768.0,10+ years,Own,14157.0,16.68,Education,744.0,0
+-,35329.0,10+ years,Own,13610.0,14.74,Debt consolidation,695.0,0
+34.0,61854.0,5–10 years,Mortgage,15117.0,6.42,Debt consolidation,736.0,0
+64.0,35379.0,10+ years,Mortgage,21489.0,9.47,Debt consolidation,678.0,0
+71.0,54189.0,10+ years,Mortgage,16737.0,14.54,Education,-,0
+21.0,61543.0,10+ years,Own,27137.0,8.29,Home improvement,656.0,0
+61.0,97581.0,3–5 years,Rent,7108.0,12.09,Home improvement,824.0,0
+53.0,68507.0,10+ years,Own,18991.0,14.46,Home improvement,660.0,0
+65.0,69256.0,3–5 years,Rent,9186.0,17.71,Debt consolidation,722.0,0
+59.0,47935.0,5–10 years,Mortgage,20495.0,14.19,Education,647.0,0
+24.0,52985.0,10+ years,Rent,16819.0,7.22,Education,-,0
+25.0,40651.0,<1 year,Rent,23212.0,6.98,Car,757.0,0
+46.0,67386.0,-,Rent,7307.0,17.69,Other,765.0,0
+33.0,30086.0,3–5 years,Mortgage,16961.0,12.74,Debt consolidation,675.0,0
+32.0,70758.0,<1 year,Rent,18562.0,8.47,Debt consolidation,641.0,0
+21.0,30282.0,1–3 years,Own,20582.0,13.92,Debt consolidation,806.0,0
+33.0,55604.0,5–10 years,Rent,13956.0,12.58,Home improvement,665.0,0
+-,-,<1 year,Rent,11377.0,9.29,Education,620.0,0
+64.0,76065.0,3–5 years,Rent,22534.0,14.27,Education,602.0,0
+37.0,28874.0,3–5 years,Own,15098.0,8.8,Debt consolidation,745.0,0
+53.0,60299.0,5–10 years,Own,15522.0,13.45,Debt consolidation,751.0,0
+65.0,44996.0,3–5 years,-,10142.0,12.39,Home improvement,711.0,0
+50.0,56179.0,1–3 years,Own,20283.0,12.57,Debt consolidation,638.0,0
+23.0,44427.0,3–5 years,Mortgage,19878.0,11.86,Debt consolidation,779.0,0
+60.0,40429.0,5–10 years,Other,12218.0,11.45,Car,649.0,0
+70.0,53115.0,10+ years,Own,10512.0,13.62,Debt consolidation,643.0,0
+68.0,69108.0,1–3 years,Own,11970.0,9.12,Debt consolidation,655.0,0
+22.0,66387.0,1–3 years,Own,10883.0,9.78,Other,750.0,0
+43.0,30488.0,<1 year,Rent,15025.0,9.86,Debt consolidation,723.0,0
+61.0,88417.0,-,Rent,15731.0,16.84,Other,667.0,0
+36.0,-,10+ years,Rent,8338.0,6.28,Education,780.0,0
+59.0,26140.0,5–10 years,Rent,26997.0,14.24,Debt consolidation,712.0,0
+28.0,22844.0,<1 year,Own,17310.0,13.06,Debt consolidation,763.0,0
+71.0,60518.0,10+ years,Rent,13788.0,8.25,Debt consolidation,688.0,0
+73.0,58794.0,3–5 years,Own,8461.0,11.58,Education,770.0,0
+38.0,57269.0,1–3 years,Rent,16913.0,16.36,Vacation,623.0,0
+31.0,75135.0,3–5 years,Rent,10302.0,6.26,Debt consolidation,-,0
+21.0,57336.0,5–10 years,Mortgage,1856.0,7.33,Home improvement,681.0,0
+70.0,47938.0,1–3 years,Rent,6949.0,5.69,Debt consolidation,647.0,0
+30.0,-,3–5 years,Rent,15228.0,10.04,Education,767.0,0
+64.0,102219.0,10+ years,Own,17514.0,13.02,Education,800.0,0
+39.0,84158.0,3–5 years,Rent,14930.0,18.69,Car,645.0,0
+69.0,89142.0,-,Mortgage,18254.0,8.02,Car,762.0,0
+70.0,69925.0,3–5 years,Own,17231.0,10.99,Debt consolidation,703.0,0
+59.0,55726.0,3–5 years,Rent,5293.0,13.9,Car,664.0,0
+41.0,57808.0,5–10 years,Mortgage,19022.0,14.6,-,-,0
+55.0,37432.0,5–10 years,Mortgage,14592.0,13.56,Debt consolidation,694.0,0
+32.0,81440.0,3–5 years,Mortgage,16845.0,7.1,Home improvement,743.0,0
+40.0,42154.0,3–5 years,Rent,11931.0,13.05,Other,663.0,0
+60.0,74204.0,3–5 years,Own,20296.0,12.0,Debt consolidation,685.0,0
+61.0,70503.0,3–5 years,Own,16602.0,15.48,Debt consolidation,-,0
+62.0,59890.0,5–10 years,Mortgage,20226.0,13.46,Debt consolidation,572.0,0
+30.0,58528.0,10+ years,Mortgage,21241.0,14.19,Debt consolidation,638.0,0
+41.0,73094.0,1–3 years,Rent,17934.0,9.55,Debt consolidation,-,0
+29.0,61474.0,1–3 years,Mortgage,11093.0,13.86,Debt consolidation,732.0,0
+-,70615.0,3–5 years,Rent,12808.0,13.17,Debt consolidation,752.0,0
+33.0,62376.0,-,Own,16333.0,9.32,Debt consolidation,839.0,0
+30.0,31568.0,3–5 years,Other,10426.0,10.17,Home improvement,747.0,0
+42.0,51844.0,5–10 years,Mortgage,11194.0,10.31,Vacation,686.0,0
+21.0,78623.0,3–5 years,Mortgage,20239.0,14.59,Debt consolidation,709.0,0
+36.0,58233.0,-,Mortgage,15540.0,11.9,Home improvement,628.0,0
+36.0,71596.0,3–5 years,Other,12173.0,9.67,Car,689.0,0
+69.0,38058.0,1–3 years,Own,13431.0,7.91,Vacation,685.0,0
+30.0,49213.0,1–3 years,Mortgage,12070.0,17.4,Education,714.0,0
+37.0,77581.0,5–10 years,Own,15676.0,9.67,-,756.0,0
+28.0,29189.0,3–5 years,Own,16176.0,8.72,Education,695.0,0
+60.0,64506.0,10+ years,Own,17049.0,17.25,Debt consolidation,763.0,0
+22.0,43848.0,5–10 years,Own,14793.0,9.65,-,720.0,0
+24.0,39477.0,10+ years,Mortgage,18965.0,11.28,Vacation,660.0,0
+32.0,48279.0,3–5 years,Own,22137.0,10.61,Vacation,709.0,0
+33.0,37795.0,10+ years,Own,20662.0,12.59,Debt consolidation,655.0,0
+67.0,71385.0,1–3 years,Rent,24613.0,7.85,-,680.0,0
+54.0,74573.0,1–3 years,Mortgage,14492.0,9.32,Education,624.0,0
+51.0,59831.0,1–3 years,Rent,23733.0,17.71,Debt consolidation,739.0,0
+24.0,61858.0,-,Rent,15313.0,12.9,Car,682.0,0
+74.0,83686.0,3–5 years,Rent,10859.0,12.4,Debt consolidation,667.0,0
+56.0,60296.0,<1 year,Own,16873.0,13.4,Education,566.0,0
+41.0,101341.0,5–10 years,Mortgage,24609.0,9.38,Debt consolidation,741.0,0
+32.0,55171.0,<1 year,Own,15789.0,14.7,Education,724.0,0
+23.0,67636.0,3–5 years,Own,26176.0,13.16,Home improvement,679.0,0
+73.0,59750.0,1–3 years,Rent,6650.0,14.09,Debt consolidation,629.0,0
+67.0,34156.0,5–10 years,Mortgage,13684.0,14.59,Other,639.0,0
+51.0,38212.0,-,Own,11369.0,15.4,Debt consolidation,704.0,0
+71.0,59247.0,5–10 years,Own,15427.0,14.72,Vacation,650.0,0
+41.0,49531.0,<1 year,Mortgage,15024.0,12.12,Debt consolidation,767.0,0
+51.0,63350.0,<1 year,Own,26929.0,14.82,Home improvement,710.0,0
+35.0,48204.0,5–10 years,Rent,12192.0,11.25,Education,719.0,0
+54.0,76429.0,10+ years,Rent,17801.0,14.45,Education,728.0,0

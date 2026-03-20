@@ -1,0 +1,13 @@
+customer_id,gender,age,income,marital_status,signup_date,purchases,feedback
+1,Other,23.0,40000.0,widowed,2021-03-16,17,good service
+2,Male,35.0,52000.0,single,2020-01-21,10,bad experience
+3,Other,,61000.0,widowed,2022-04-30,16,very fast delivery
+4,Other,58.0,,widowed,2021-08-13,15,okay
+5,Male,42.0,72000.0,widowed,2019-10-04,15,good and fast
+6,Male,31.0,58000.0,divorced,2022-03-30,19,bad product
+7,Other,,45000.0,married,2020-04-04,12,fast shipping
+8,Female,67.0,,single,2022-08-30,3,excellent
+9,Other,29.0,69000.0,married,2019-01-22,5,good support
+10,Other,54.0,73000.0,widowed,2019-09-10,19,slow and bad
+11,Other,40.0,,widowed,2021-01-17,7,fast refund
+12,Other,,50000.0,married,2021-05-06,9,good good good

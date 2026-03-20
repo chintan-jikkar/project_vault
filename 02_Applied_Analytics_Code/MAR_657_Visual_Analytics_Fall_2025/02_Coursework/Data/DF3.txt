@@ -1,0 +1,5 @@
+"names" "age" "gender"
+"1" "Smith" 23 "M"
+"2" "Ashley" 35 "F"
+"3" "James" 31 "M"
+"4" "Amy" 33 "F"
